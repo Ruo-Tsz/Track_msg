@@ -2,7 +2,7 @@
 The message stored in Argo rosbag.
 
 In Argo lightweight rosbag in ee904 server. I publish the topic
-"/labels", message type "track_array_msgs/TrackArray".
+**/labels**, message type "track_array_msgs/TrackArray".
 
 This repo is for the use of it.
 
